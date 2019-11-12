@@ -2,7 +2,7 @@ body {
   font-family: sans-serif;
 }
 .header {
-background-color: #2A92FF;
+background-color: #325880;
 color: white;
 margin: 3%,3%;
 padding: 1px;
@@ -12,7 +12,7 @@ padding-left: 20px;
   margin-top: -610px;
   margin-left: 80%;
   margin-right: 2%;
-  background-color: #409bff;
+  background-color: #486a96;
   padding: 3px;
   padding-bottom: 330px;
   text-align: left;
@@ -25,7 +25,7 @@ padding-left: 20px;
   margin-right: 22%;
   margin-left: 2%;
   margin-top: 2%;
-  background-color: #409bff;
+  background-color: #486a96;
   padding: 4px;
   padding-bottom: 0%;
   text-align: center;
@@ -40,7 +40,7 @@ iframe {
   color: white;
   padding-top: 5%;
   margin-top: -5%;
-  background-color: #409cff;
+  background-color: #486b96;
 }
 .infobox1 {
   text-align: left;
@@ -68,14 +68,14 @@ a:hover {
   color: lightblue;
 }
 .footer {
-  background-color: #2A92FF;
+  background-color: #325780;
   text-align: center;
   color: white;
   padding: 1px;
   position: relative;
 }
 .box {
-  background-color: rgb(42,146,255,20);
+  background-color: rgb(50,87,128);
   padding: 1px;
   padding-left: 1%;
 }
