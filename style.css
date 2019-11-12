@@ -9,10 +9,10 @@ padding: 1px;
 padding-left: 20px;
 }
 .contenR {
-  margin-top:-610px;
+  margin-top: -610px;
   margin-left: 80%;
   margin-right: 2%;
-  background-color: #69BBFF;
+  background-color: #409bff;
   padding: 3px;
   padding-bottom: 330px;
   text-align: left;
@@ -25,7 +25,7 @@ padding-left: 20px;
   margin-right: 22%;
   margin-left: 2%;
   margin-top: 2%;
-  background-color: #69BBFF;
+  background-color: #409bff;
   padding: 4px;
   padding-bottom: 0%;
   text-align: center;
@@ -40,6 +40,7 @@ iframe {
   color: white;
   padding-top: 5%;
   margin-top: -5%;
+  background-color: #409cff;
 }
 .infobox1 {
   text-align: left;
