@@ -100,11 +100,10 @@ a:hover {
 .esimerkki1 {
   float: right;
      background-color: #355580;
-     padding: 25px;
+     padding: 29px;
      border-radius: 10px;
      margin-left: 580px;
      margin-right: 0px;
      position: absolute;
-     font-size: smaller;
-     margin-top: 22px;
+     margin-top: 19px;
 }
