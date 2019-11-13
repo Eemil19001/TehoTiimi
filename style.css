@@ -98,10 +98,12 @@ a:hover {
   padding-left: 1%;
 }
 .esimerkki1 {
- float: right;
-	margin-right: 100px;
-	background-color: #355580;
-	padding: 50px;
-	border-radius: 10px;
-	margin: 40px 60px 0px 0px;
+  float: right;
+     background-color: #355580;
+     padding: 29px;
+     border-radius: 10px;
+     margin-left: 580px;
+     margin-right: 0px;
+     position: absolute;
+     margin-top: 19px;
 }
