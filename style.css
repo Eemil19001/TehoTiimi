@@ -1,20 +1,26 @@
 body {
   font-family: sans-serif;
 }
+h1 {
+	background-color: #325780;
+   margin: 10px 0px 0px 0px;
+   padding: 10px;
+   border-radius: 5px;
+}
 .header {
 background-color: #325880;
 color: white;
-margin: 3%,3%;
+margin: 0px 0px -12px 0px;
 padding: 1px;
 padding-left: 20px;
 }
 .contenR {
-  margin-top: -610px;
+  margin-top: -558px;
   margin-left: 80%;
   margin-right: 2%;
   background-color: #486a96;
   padding: 3px;
-  padding-bottom: 330px;
+  padding-bottom: 255px;
   text-align: left;
   color: white;
 }
@@ -31,7 +37,19 @@ padding-left: 20px;
   text-align: center;
   color: white;
 }
-
+.edellinenSeuraava {
+	background-color: #365480;
+	margin: 4px 831px 0px 0px;
+   padding: 7px;
+}
+.edellinenSeuraava1 {
+	background-color: #365480;
+	margin: 4px 770px 0px 0px;
+   padding: 7px;
+}
+.contenR img {
+margin: 40px 0px 0px 64px;
+}
 iframe {
   border-style: none;
 }
@@ -84,7 +102,6 @@ a:hover {
 	margin-right: 100px;
 	background-color: #355580;
 	padding: 50px;
-	border-radius: 21px;
+	border-radius: 10px;
 	margin: 40px 60px 0px 0px;
-
 }
